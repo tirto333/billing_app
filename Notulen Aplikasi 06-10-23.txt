@@ -1,0 +1,58 @@
+-. project dan task antar divisi dapat running
+-. pembuatan field customer
+
+Notulen MP - 13/10/23
+*. Pembuatan Jenis Projek pada penambahan projek
+Jenis Pekerjaan
+-----------------
+Survey Wireless
+Survey FO
+Survey AP
+
+Instalasi Wireless
+Instalasi FO
+Instalasi Vsat
+Instalasi BTS 
+
+Aktivasi Wifi
+AKtivasi Wireless
+Aktivasi FO
+
+Maintenance Client
+Maintenance BTS
+
+Softblock Client
+Blokir	  Client 
+Dismantle BTS
+Dismantle Client
+
+Other
+
+*. Pembuatan Dropdown pada Project
+   -. Customer
+   -. Internal
+   -. Vendor
+
+*. Nama Customer atau eksisting diambil dari Apps CRM
+
+*. Tipe Projek (X)status
+
+*. Pembuatan Task
+   -.
+
+18/10/23
+
+-. Judul Projek -> Other
+   Input SPK -> All
+-. (X) Jenis Projek
+-. Pembuatan API Server untuk komunikasi Antara server CRM
+   dan MP
+-. View Project Owner
+-. Tenggat Waktu Asc
+-. View Field Aging
+-. Projek Dihapus (X)
+-. Aging Time Di Judul Projek - Detail Projek
+-. Field ID Projek - Tugas
+-. (X) Tugas Dihapus - Tugas
+-. Detail Projek - Detail Tugas User
+-. Komentar -> Aktifitas
